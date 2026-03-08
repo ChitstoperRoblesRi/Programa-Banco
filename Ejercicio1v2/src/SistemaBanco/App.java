@@ -180,13 +180,4 @@ public class App {
 
         sc.close();
     }
-
-
-    /*private static boolean verificarMonto(double monto){
-        if(monto > 0){
-            return true;
-        } else{
-            return false;
-        }
-    }*/
 }
